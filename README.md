@@ -14,4 +14,5 @@ I’m currently learning
 ![GitHub](https://img.shields.io/badge/-GitHub-101214?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/-DevTools-101214?style=for-the-badge&logo=googlechrome&logoColor=196FE2)
 
-###
+
+[![Olha`s GitHub stats](https://github-readme-stats.vercel.app/api?username=OlhaAvdieienko&show_icons=true&theme=catppuccin_mocha&hide=contribs,prs)](https://github.com/OlhaAvdieienko/github-readme-stats)
