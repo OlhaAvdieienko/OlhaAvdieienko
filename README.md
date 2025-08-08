@@ -13,7 +13,5 @@ I’m currently learning
 ![Git](https://img.shields.io/badge/-Git-101214?style=for-the-badge&logo=Git&logoColor=F44D27)
 ![GitHub](https://img.shields.io/badge/-GitHub-101214?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/-DevTools-101214?style=for-the-badge&logo=googlechrome&logoColor=196FE2)
-![1C](https://img.shields.io/badge/-1C-101214?style=for-the-badge&logo=1C&logoColor=FFFFFF)
-![PBI](https://img.shields.io/badge/-powerbi-101214?style=for-the-badge&logo=powerbi&logoColor=FFFFFF)
 
 ###
