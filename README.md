@@ -24,6 +24,6 @@ Curious and detail-driven Junior QA Engineer who loves catching bugs before they
 [• Bug-reports](https://drive.google.com/drive/folders/1p2Sy1ej8ZFKkESyyiy-DuCEEn5yjNtc6?usp=sharing)
 
 ## Follow Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/olha-avdieienko-7572a2334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-avdieienko-7572a2334/?trk=opento_sprofile_topcard)
 
 [![Olha`s GitHub stats](https://github-readme-stats.vercel.app/api?username=OlhaAvdieienko&show_icons=true&theme=catppuccin_mocha&hide=contribs,prs)](https://github.com/OlhaAvdieienko/github-readme-stats)
