@@ -4,7 +4,7 @@
 Curious and detail-driven Junior QA Engineer who loves catching bugs before they catch users. Experienced in manual testing, documentation, and process improvement, with a knack for turning requirements into reliable, high-quality products. Always learning, always improving — ready to grow in mobile and automation testing and bring value to every project.
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1vd9P6uFdr1aEfUMjtGQHn9K1TIFCABVE/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1qGPxYVUkvKAC_QD1WCTUGAuTuoP4vZp8/view?usp=sharing)
 
 ## Tools
 ![Jira](https://img.shields.io/badge/-JIRA-101214?style=for-the-badge&logo=jira&logoColor=1868DB)
