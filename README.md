@@ -16,7 +16,7 @@ Curious and detail-driven Junior QA Engineer who loves catching bugs before they
 ![GitHub](https://img.shields.io/badge/-GitHub-101214?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![DevTools](https://img.shields.io/badge/-DevTools-101214?style=for-the-badge&logo=googlechrome&logoColor=196FE2)
 
-## Testing documentation
+## Test Documentation
 [• Checklists](https://drive.google.com/drive/folders/1hIxGsm3JSO_ZLmbK6ilezi5UUUXily9b?usp=sharing)
 
 [• Test-cases](https://drive.google.com/drive/folders/1lk3UcSKIsdAHrvygB5eYULx40L6K5kFj?usp=sharing)
