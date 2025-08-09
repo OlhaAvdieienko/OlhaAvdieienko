@@ -1,8 +1,11 @@
 [![Header](https://github.com/OlhaAvdieienko/OlhaAvdieienko/blob/main/assets/Image%20Aug%208%2C%202025.png)](https://github.com/OlhaAvdieienko)
 
-About me
+## About me
+Curious and detail-driven Junior QA Engineer who loves catching bugs before they catch users. Experienced in manual testing, documentation, and process improvement, with a knack for turning requirements into reliable, high-quality products. Always learning, always improving — ready to grow in mobile and automation testing and bring value to every project.
 
-I’m currently learning
+## My CV
+
+
 
 ## Tools
 ![Jira](https://img.shields.io/badge/-JIRA-101214?style=for-the-badge&logo=jira&logoColor=1868DB)
