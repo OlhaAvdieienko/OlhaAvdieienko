@@ -24,6 +24,13 @@ I’m passionate about **Shift-left testing**, performance analysis, and deliver
 ![ADB](https://img.shields.io/badge/-ADB-101214?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![HTTP Toolkit](https://img.shields.io/badge/-HTTP_Toolkit-101214?style=for-the-badge&logo=http-toolkit&logoColor=009688)
 
+## Featured Projects 🚀
+Check out my automated testing solutions:
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**QA Automation Portfolio**](https://github.com/OlhaAvdieienko/QA-Automation-Portfolio) | E2E Registration Bot & Multi-Session Manager | Python, Selenium |
+
 ## QA Activities & Focus 🚀
 * **Manual Testing:** Full-cycle testing of complex ecosystems, including Web, Mobile (Android/iOS), and Hardware (Terminals, Kiosks, Android TV).
 * **API Testing:** Validating backend logic and integrations using **Postman**, **Swagger**, and **HTTP Toolkit** for traffic interception.
