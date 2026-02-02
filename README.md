@@ -6,7 +6,7 @@ I am a result-oriented **QA Engineer** with a unique background in quality inspe
 I’m passionate about **Shift-left testing**, performance analysis, and delivering products that work flawlessly across all platforms.
 
 ## My CV 📄
-[Click here to view my CV](https://docs.google.com/document/d/1ydPCshZwbYY4W9oeUii7aA-aMhjpiK7O/edit?usp=sharing&ouid=106205011006937613885&rtpof=true&sd=true)
+[Click here to view my CV](https://drive.google.com/file/d/1EiwcPj0nXRw2LLZRrhl-Gw3ViqUcP-Fn/view?usp=sharing)
 
 ## Technical Stack & Tools 🛠
 ![Jira](https://img.shields.io/badge/-JIRA-101214?style=for-the-badge&logo=jira&logoColor=1868DB)
