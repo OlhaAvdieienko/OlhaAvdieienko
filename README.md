@@ -39,7 +39,7 @@ I’m passionate about **Shift-left testing**, performance analysis, and deliver
 
 ## Contact Me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-avdieienko-7572a2334/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Avdieienko_Olha)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Avdieienko_Olha)
 
 ---
 *“Quality is not an act, it is a habit.” — Aristotle*
