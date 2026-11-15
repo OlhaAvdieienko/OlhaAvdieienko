@@ -10,7 +10,7 @@ My product experience includes queue management and appointment systems, web and
 
 ## My CV
 
-[View my CV](https://drive.google.com/file/d/1WXxVbf5hj0jQ6MZjjQJk1TuZbyA2ONtF/view?usp=sharing)
+[View my CV](https://github.com/OlhaAvdieienko/OlhaAvdieienko/blob/main/Olha_Avdieienko_CV_EN.pdf)
 
 ## Tools
 
